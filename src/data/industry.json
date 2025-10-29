@@ -1,0 +1,107 @@
+{
+  "retail-commerce/ecommerce": {
+    "slug": "retail-commerce/ecommerce",
+    "title": "Ecommerce Solutions",
+    "description": "Empower your online business with scalable ecommerce technology and tailored digital strategies.",
+    "hero": {
+      "heading": "Revolutionize Your Online Store",
+      "description": "We design and build seamless ecommerce experiences that drive conversions and customer loyalty.",
+      "gradient": "from-pink-600 to-purple-700"
+    },
+    "features": [
+      { "title": "Custom Storefronts", "description": "Develop user-friendly and responsive online stores.", "icon": "shoppingbag" },
+      { "title": "Payment Integration", "description": "Secure payment gateways with global currency support.", "icon": "lock" },
+      { "title": "Inventory Automation", "description": "Sync and manage stock levels in real-time.", "icon": "code" }
+    ],
+    "benefits": [
+      "Increase conversion rates by up to 40%",
+      "Reduce cart abandonment",
+      "Integrate with Shopify, WooCommerce, or Magento",
+      "Optimized for all devices"
+    ]
+  },
+  "healthcare-education/healthcare": {
+    "slug": "healthcare-education/healthcare",
+    "title": "Healthcare Solutions",
+    "description": "Build secure, scalable healthcare platforms for clinics, hospitals, and telemedicine providers.",
+    "hero": {
+      "heading": "Transform Healthcare with Technology",
+      "description": "From patient apps to EMR systems, our solutions enhance patient care and data security.",
+      "gradient": "from-red-500 to-pink-600"
+    },
+    "features": [
+      { "title": "Patient Portals", "description": "Streamline appointments and medical records.", "icon": "heart" },
+      { "title": "Telemedicine Platforms", "description": "Enable virtual consultations and monitoring.", "icon": "cloud" },
+      { "title": "HIPAA Compliance", "description": "Ensure secure handling of sensitive medical data.", "icon": "shield" }
+    ],
+    "benefits": [
+      "Enhance patient engagement",
+      "Ensure data privacy and compliance",
+      "Integrate with EHR systems",
+      "Improve healthcare outcomes"
+    ]
+  },
+  "finance-security/cybersecurity": {
+    "slug": "finance-security/cybersecurity",
+    "title": "Cybersecurity Services",
+    "description": "Protect your business with comprehensive cybersecurity and data protection solutions.",
+    "hero": {
+      "heading": "Secure Your Digital Infrastructure",
+      "description": "We offer enterprise-grade protection from cyber threats, breaches, and data loss.",
+      "gradient": "from-blue-700 to-cyan-600"
+    },
+    "features": [
+      { "title": "Threat Detection", "description": "Monitor and identify suspicious activity in real-time.", "icon": "shield" },
+      { "title": "Data Encryption", "description": "Protect sensitive data across all platforms.", "icon": "lock" },
+      { "title": "Incident Response", "description": "Rapid mitigation and recovery from security breaches.", "icon": "server" }
+    ],
+    "benefits": [
+      "24/7 monitoring and response",
+      "Compliance with ISO & GDPR standards",
+      "Secure cloud infrastructure",
+      "Protect customer trust and reputation"
+    ]
+  },
+  "infrastructure/logistics": {
+    "slug": "infrastructure/logistics",
+    "title": "Logistics & Supply Chain",
+    "description": "Digitize logistics and streamline supply chains with data-driven technology.",
+    "hero": {
+      "heading": "Optimize Logistics Operations",
+      "description": "We build intelligent logistics software that improves delivery efficiency and visibility.",
+      "gradient": "from-orange-500 to-yellow-600"
+    },
+    "features": [
+      { "title": "Fleet Tracking", "description": "Monitor and manage fleets in real-time.", "icon": "truck" },
+      { "title": "Route Optimization", "description": "Save fuel and time with AI-based routing.", "icon": "lightbulb" },
+      { "title": "Inventory Control", "description": "Track goods across warehouses and locations.", "icon": "database" }
+    ],
+    "benefits": [
+      "Cut operational costs by 25%",
+      "Improve delivery times",
+      "Real-time analytics dashboard",
+      "Integrated IoT device tracking"
+    ]
+  },
+  "media-entertainment/sports-events": {
+    "slug": "media-entertainment/sports-events",
+    "title": "Sports & Events Solutions",
+    "description": "Deliver engaging fan experiences and event management tools for the modern era.",
+    "hero": {
+      "heading": "Empowering Sports and Events Digitally",
+      "description": "From ticketing platforms to fan engagement apps — we bring innovation to sports and entertainment.",
+      "gradient": "from-indigo-600 to-blue-700"
+    },
+    "features": [
+      { "title": "Ticketing Platforms", "description": "Seamless ticket booking and payment systems.", "icon": "trophy" },
+      { "title": "Fan Engagement", "description": "Interactive features to boost audience loyalty.", "icon": "users" },
+      { "title": "Analytics & Insights", "description": "Data-driven decisions for teams and organizers.", "icon": "lightbulb" }
+    ],
+    "benefits": [
+      "Boost audience engagement",
+      "Custom branding and monetization options",
+      "Cloud-based scalability",
+      "Enhanced security for transactions"
+    ]
+  }
+}

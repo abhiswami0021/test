@@ -1,0 +1,874 @@
+{
+  "generative-ai": {
+    "overview": {
+      "slug": "/services/generative-ai/overview",
+      "title": "Generative AI Overview",
+      "description": "An introduction to our generative AI capabilities and services.",
+      "hero": {
+        "heading": "Generative AI Overview",
+        "description": "Unlock the power of AI-driven creativity and automation for your business.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "AI Innovations",
+          "description": "Explore cutting-edge AI solutions tailored for your business.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Data-Driven Insights",
+          "description": "Leverage generative AI to uncover actionable insights.",
+          "icon": "database"
+        }
+      ],
+      "benefits": [
+        "Enhanced innovation capabilities",
+        "Faster content generation",
+        "Improved decision-making with AI insights"
+      ]
+    },
+    "ai-strategy-consulting": {
+      "slug": "/services/generative-ai/ai-strategy-consulting",
+      "title": "AI Strategy Consulting",
+      "description": "Expert guidance to develop and implement your AI strategy.",
+      "hero": {
+        "heading": "AI Strategy Consulting",
+        "description": "Expert guidance to develop and implement your AI strategy.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "AI Strategy Development",
+          "description": "Craft a tailored AI roadmap for your business.",
+          "icon": "lightbulb"
+        },
+        {
+          "title": "Consulting Services",
+          "description": "Personalized advice from AI experts.",
+          "icon": "users"
+        }
+      ],
+      "benefits": [
+        "Strategic AI planning",
+        "Enhanced business alignment",
+        "Expert consultation support"
+      ]
+    },
+    "ai-development-services": {
+      "slug": "/services/generative-ai/ai-development-services",
+      "title": "AI Development",
+      "description": "Custom AI solutions built to drive automation and innovation.",
+      "hero": {
+        "heading": "AI Development Services",
+        "description": "End-to-end AI application design and development services.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Custom AI Models",
+          "description": "Build, train, and deploy advanced AI models.",
+          "icon": "code"
+        },
+        {
+          "title": "Integration Ready",
+          "description": "Seamless integration with your existing systems.",
+          "icon": "plug"
+        }
+      ],
+      "benefits": [
+        "Tailored AI applications",
+        "Scalable AI architecture",
+        "Optimized for performance and efficiency"
+      ]
+    },
+    "ai-integration-solutions": {
+      "slug": "/services/generative-ai/ai-integration-solutions",
+      "title": "AI Integration",
+      "description": "Integrate AI seamlessly into your workflows and platforms.",
+      "hero": {
+        "heading": "AI Integration Solutions",
+        "description": "Smooth integration of AI into your business processes.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "System Compatibility",
+          "description": "Integrate with CRMs, ERPs, and other enterprise tools.",
+          "icon": "server"
+        },
+        {
+          "title": "Automated Workflows",
+          "description": "Optimize your processes with AI-driven automation.",
+          "icon": "plug"
+        }
+      ],
+      "benefits": [
+        "Faster implementation",
+        "Reduced manual workload",
+        "Increased operational efficiency"
+      ]
+    },
+    "ai-training-support": {
+      "slug": "/services/generative-ai/ai-training-support",
+      "title": "AI Training and Support",
+      "description": "Comprehensive training to help your team master AI tools and workflows.",
+      "hero": {
+        "heading": "AI Training and Support",
+        "description": "Empower your workforce with hands-on AI education.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Hands-on Learning",
+          "description": "Practical training for developers and decision-makers.",
+          "icon": "laptop"
+        },
+        {
+          "title": "Continuous Support",
+          "description": "Ongoing maintenance and assistance from AI specialists.",
+          "icon": "users"
+        }
+      ],
+      "benefits": [
+        "Upskill your team",
+        "Maximize AI adoption",
+        "Ensure long-term AI success"
+      ]
+    },
+    "ai-business-engagement": {
+      "slug": "/services/generative-ai/ai-business-engagement",
+      "title": "AI Engagement",
+      "description": "Leverage AI to enhance business and customer engagement.",
+      "hero": {
+        "heading": "AI Engagement",
+        "description": "Boost your business engagement with AI-driven strategies.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Customer Insights",
+          "description": "Utilize AI analytics for personalized engagement.",
+          "icon": "users"
+        },
+        {
+          "title": "Smart Automation",
+          "description": "Automate repetitive tasks and improve efficiency.",
+          "icon": "plug"
+        }
+      ],
+      "benefits": [
+        "Better customer retention",
+        "Higher engagement rates",
+        "Improved operational productivity"
+      ]
+    }
+  },
+  "cloud": {
+    "aws-solutions": {
+      "slug": "/services/cloud/aws-solutions",
+      "title": "AWS",
+      "description": "Scalable, secure, and cost-effective cloud services with AWS.",
+      "hero": {
+        "heading": "AWS Cloud Solutions",
+        "description": "Maximize performance with Amazon Web Services (AWS).",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Cloud Migration",
+          "description": "Seamlessly migrate workloads to AWS infrastructure.",
+          "icon": "cloud"
+        },
+        {
+          "title": "Infrastructure Management",
+          "description": "Optimize resources and reduce costs with AWS tools.",
+          "icon": "server"
+        }
+      ],
+      "benefits": [
+        "High scalability",
+        "Secure infrastructure",
+        "Pay-as-you-go model"
+      ]
+    },
+    "azure-services": {
+      "slug": "/services/cloud/azure-services",
+      "title": "Microsoft Azure",
+      "description": "Enterprise-grade cloud infrastructure with Azure.",
+      "hero": {
+        "heading": "Microsoft Azure Cloud Services",
+        "description": "Deploy secure and reliable solutions with Azure cloud.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Cloud Integration",
+          "description": "Integrate existing systems with Azure seamlessly.",
+          "icon": "plug"
+        },
+        {
+          "title": "Managed Services",
+          "description": "Continuous monitoring and support for Azure workloads.",
+          "icon": "shield"
+        }
+      ],
+      "benefits": [
+        "High availability",
+        "Robust data security",
+        "Flexible deployment models"
+      ]
+    },
+    "gcp-services": {
+      "slug": "/services/cloud/gcp-services",
+      "title": "Google Cloud Platform (GCP)",
+      "description": "Harness the power of Google Cloud's data and AI solutions.",
+      "hero": {
+        "heading": "Google Cloud Platform (GCP)",
+        "description": "Scalable cloud infrastructure optimized for innovation.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Smart Cloud Infrastructure",
+          "description": "Run applications efficiently with Google Cloud\u2019s advanced infrastructure.",
+          "icon": "cloud"
+        },
+        {
+          "title": "AI and Data Analytics",
+          "description": "Leverage GCP\u2019s AI tools for intelligent business decisions.",
+          "icon": "database"
+        }
+      ],
+      "benefits": [
+        "Advanced AI integration",
+        "Secure global network",
+        "Optimized cloud performance"
+      ]
+    }
+  },
+  "web-development": {
+    "php": {
+      "slug": "/services/web-development/php",
+      "title": "PHP Development",
+      "description": "Robust web applications built with PHP frameworks.",
+      "hero": {
+        "heading": "PHP Development",
+        "description": "Dynamic and scalable web solutions using PHP.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Custom Web Apps",
+          "description": "Tailored solutions built for your business.",
+          "icon": "code"
+        },
+        {
+          "title": "API Integrations",
+          "description": "Seamless integration with third-party services.",
+          "icon": "plug"
+        }
+      ],
+      "benefits": [
+        "Fast development",
+        "Scalable architecture",
+        "Secure and reliable"
+      ]
+    },
+    "mean-stack": {
+      "slug": "/services/web-development/mean-stack",
+      "title": "MEAN Stack Development",
+      "description": "Full-stack JavaScript solutions with MongoDB, Express, Angular, and Node.",
+      "hero": {
+        "heading": "MEAN Stack Development",
+        "description": "End-to-end JavaScript development for web apps.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Full Stack Expertise",
+          "description": "Frontend and backend with a unified language.",
+          "icon": "layers"
+        },
+        {
+          "title": "High Performance",
+          "description": "Fast, real-time web applications.",
+          "icon": "zap"
+        }
+      ],
+      "benefits": [
+        "Single language workflow",
+        "Faster deployment",
+        "Modern tech stack"
+      ]
+    },
+    "nodejs": {
+      "slug": "/services/web-development/nodejs",
+      "title": "Node.js Development",
+      "description": "High-performance backend development with Node.js.",
+      "hero": {
+        "heading": "Node.js Development",
+        "description": "Build scalable, event-driven applications using Node.js.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Real-time Apps",
+          "description": "Efficient backend for chat, IoT, and streaming.",
+          "icon": "clock"
+        },
+        {
+          "title": "Fast APIs",
+          "description": "Low-latency REST and GraphQL APIs.",
+          "icon": "server"
+        }
+      ],
+      "benefits": [
+        "Non-blocking architecture",
+        "High scalability",
+        "Modern JS ecosystem"
+      ]
+    },
+    "angularjs": {
+      "slug": "/services/web-development/angularjs",
+      "title": "AngularJS Development",
+      "description": "Interactive, dynamic web interfaces powered by AngularJS.",
+      "hero": {
+        "heading": "AngularJS Development",
+        "description": "Modern front-end development with AngularJS.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Dynamic Interfaces",
+          "description": "Powerful UI binding and components.",
+          "icon": "layout"
+        },
+        {
+          "title": "Modular Code",
+          "description": "Maintainable and scalable app structure.",
+          "icon": "layers"
+        }
+      ],
+      "benefits": [
+        "Reusable components",
+        "Cross-platform support",
+        "Enhanced performance"
+      ]
+    },
+    "python-web": {
+      "slug": "/services/web-development/python-web",
+      "title": "Python Web Development",
+      "description": "Robust backend development using Python frameworks like Django and Flask.",
+      "hero": {
+        "heading": "Python Web Development",
+        "description": "Powerful and flexible web solutions with Python.",
+       "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Rapid Development",
+          "description": "Faster project delivery using Python tools.",
+          "icon": "zap"
+        },
+        {
+          "title": "AI Integration",
+          "description": "Seamless integration with AI and data science.",
+          "icon": "brain"
+        }
+      ],
+      "benefits": [
+        "High productivity",
+        "Clean and readable code",
+        "Great ecosystem"
+      ]
+    },
+    "codeigniter": {
+      "slug": "/services/web-development/codeigniter",
+      "title": "CodeIgniter Development",
+      "description": "Lightweight and efficient PHP framework for web apps.",
+      "hero": {
+        "heading": "CodeIgniter Development",
+        "description": "Fast and reliable PHP solutions with CodeIgniter.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "MVC Framework",
+          "description": "Organized structure for scalable apps.",
+          "icon": "layers"
+        },
+        {
+          "title": "Quick Deployment",
+          "description": "Rapid development for small to medium apps.",
+          "icon": "zap"
+        }
+      ],
+      "benefits": [
+        "Lightweight performance",
+        "Simple configuration",
+        "Fast deployment"
+      ]
+    },
+    "laravel": {
+      "slug": "/services/web-development/laravel",
+      "title": "Laravel Development",
+      "description": "Elegant and expressive PHP framework for modern web development.",
+      "hero": {
+        "heading": "Laravel Development",
+        "description": "Build secure and scalable applications using Laravel.",
+        "gradient": "from-pink-800 via-black to-pink-900"
+      },
+      "features": [
+        {
+          "title": "Blade Templates",
+          "description": "Beautiful, reusable front-end templates.",
+          "icon": "layout"
+        },
+        {
+          "title": "API Ready",
+          "description": "Seamless REST and GraphQL API development.",
+          "icon": "code"
+        }
+      ],
+      "benefits": [
+        "Clean architecture",
+        "Built-in security",
+        "Active community"
+      ]
+    },
+    "cakephp": {
+      "slug": "/services/web-development/cakephp",
+      "title": "CakePHP Development",
+      "description": "Rapid web development with the CakePHP framework.",
+      "hero": {
+        "heading": "CakePHP Development",
+        "description": "Fast, structured, and secure PHP web apps with CakePHP.",
+       "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        {
+          "title": "Convention over Configuration",
+          "description": "Simplify development with smart defaults.",
+          "icon": "settings"
+        },
+        {
+          "title": "Secure Framework",
+          "description": "Inbuilt tools for validation and security.",
+          "icon": "shield"
+        }
+      ],
+      "benefits": [
+        "Faster MVP delivery",
+        "Built-in ORM",
+        "Secure structure"
+      ]
+    }
+  },
+  "app-development": {
+    "ios": {
+      "slug": "/services/app-development/ios",
+      "title": "iOS App Development",
+      "description": "Build high-performance iOS applications tailored for Apple devices.",
+      "hero": {
+        "heading": "iOS App Development",
+        "description": "Deliver premium mobile experiences with our expert iOS developers.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Native iOS Development", "description": "Swift and Objective-C app development for iPhone and iPad.", "icon": "smartphone" },
+        { "title": "App Store Optimization", "description": "Ensure your app ranks higher and performs better on the App Store.", "icon": "bar-chart" }
+      ],
+      "benefits": [
+        "Seamless Apple ecosystem integration",
+        "High performance and security",
+        "Optimized user experience"
+      ]
+    },
+    "android": {
+      "slug": "/services/app-development/android",
+      "title": "Android App Development",
+      "description": "Develop scalable and reliable Android applications for all devices.",
+      "hero": {
+        "heading": "Android App Development",
+        "description": "Build powerful Android apps with a focus on performance and usability.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Custom Android Apps", "description": "Tailored Android apps that meet your business goals.", "icon": "smartphone" },
+        { "title": "Play Store Deployment", "description": "End-to-end support for publishing your app.", "icon": "upload" }
+      ],
+      "benefits": [
+        "Wide device compatibility",
+        "Flexible customization",
+        "Cost-effective development"
+      ]
+    },
+    "cross-platform": {
+      "slug": "/services/app-development/cross-platform",
+      "title": "Cross Platform App Development",
+      "description": "Build apps that run seamlessly on multiple platforms using one codebase.",
+      "hero": {
+        "heading": "Cross Platform App Development",
+        "description": "Maximize reach and efficiency with hybrid mobile app development.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Unified Codebase", "description": "Single codebase for both Android and iOS.", "icon": "code" },
+        { "title": "Fast Deployment", "description": "Accelerate time-to-market with cross-platform frameworks.", "icon": "zap" }
+      ],
+      "benefits": [
+        "Reduced development cost",
+        "Easy maintenance",
+        "Broader market reach"
+      ]
+    },
+    "flutter": {
+      "slug": "/services/app-development/flutter",
+      "title": "Flutter App Development",
+      "description": "Create beautiful, fast, and scalable apps using Flutter.",
+      "hero": {
+        "heading": "Flutter App Development",
+        "description": "Deliver smooth UI and high performance with Flutter.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "UI Rich Apps", "description": "Build pixel-perfect interfaces for all screen sizes.", "icon": "layout" },
+        { "title": "Single Codebase", "description": "One framework for Android, iOS, and web.", "icon": "code" }
+      ],
+      "benefits": [
+        "Fast development cycle",
+        "High-quality UI performance",
+        "Open-source flexibility"
+      ]
+    },
+    "wearable": {
+      "slug": "/services/app-development/wearable",
+      "title": "Wearable App Development",
+      "description": "Innovative apps for wearable devices like smartwatches and fitness bands.",
+      "hero": {
+        "heading": "Wearable App Development",
+        "description": "Extend your business to the world of wearables.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Smartwatch Apps", "description": "Apps designed for Apple Watch and WearOS devices.", "icon": "watch" },
+        { "title": "IoT Integration", "description": "Connect wearables with IoT and health data.", "icon": "activity" }
+      ],
+      "benefits": [
+        "Next-gen technology adoption",
+        "Improved user engagement",
+        "Enhanced data collection"
+      ]
+    },
+    "react-native": {
+      "slug": "/services/app-development/react-native",
+      "title": "React Native App Development",
+      "description": "Develop robust cross-platform apps with React Native framework.",
+      "hero": {
+        "heading": "React Native App Development",
+        "description": "Fast, reliable, and cost-effective app development using React Native.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Reusable Components", "description": "Accelerate app development using prebuilt components.", "icon": "code" },
+        { "title": "Native Performance", "description": "Enjoy near-native experience and speed.", "icon": "zap" }
+      ],
+      "benefits": [
+        "Faster time-to-market",
+        "Cross-platform efficiency",
+        "Lower development cost"
+      ]
+    }
+  },
+  "cms-ecommerce": {
+    "wordpress": {
+      "slug": "/services/cms-ecommerce/wordpress",
+      "title": "WordPress Development",
+      "description": "Custom WordPress websites tailored for speed and SEO.",
+      "hero": {
+        "heading": "WordPress Development",
+        "description": "Create flexible, SEO-friendly websites with WordPress.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Custom Themes", "description": "Unique WordPress themes designed to match your brand.", "icon": "brush" },
+        { "title": "Plugin Integration", "description": "Add new features easily with custom plugins.", "icon": "puzzle" }
+      ],
+      "benefits": [
+        "Easy content management",
+        "SEO optimized",
+        "Fast deployment"
+      ]
+    },
+    "magento": {
+      "slug": "/services/cms-ecommerce/magento",
+      "title": "Magento Development",
+      "description": "Enterprise-level ecommerce development using Magento.",
+      "hero": {
+        "heading": "Magento Development",
+        "description": "Build robust and scalable ecommerce stores with Magento.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Scalable Architecture", "description": "Supports large product catalogs and transactions.", "icon": "server" },
+        { "title": "Custom Modules", "description": "Enhance store functionality with bespoke modules.", "icon": "settings" }
+      ],
+      "benefits": [
+        "Powerful ecommerce engine",
+        "High scalability",
+        "Advanced customization"
+      ]
+    },
+    "joomla": {
+      "slug": "/services/cms-ecommerce/joomla",
+      "title": "Joomla Development",
+      "description": "Feature-rich CMS solutions using Joomla for diverse needs.",
+      "hero": {
+        "heading": "Joomla Development",
+        "description": "Flexible and secure CMS development with Joomla.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Extensive Extensions", "description": "Access thousands of Joomla extensions.", "icon": "layers" },
+        { "title": "Custom Templates", "description": "Beautiful designs with optimized UI/UX.", "icon": "layout" }
+      ],
+      "benefits": [
+        "Easy management",
+        "Secure CMS platform",
+        "Community support"
+      ]
+    },
+    "shopify": {
+      "slug": "/services/cms-ecommerce/shopify",
+      "title": "Shopify Development",
+      "description": "Launch high-performing online stores with Shopify.",
+      "hero": {
+        "heading": "Shopify Development",
+        "description": "Sell smarter with custom Shopify ecommerce solutions.",
+       "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Custom Themes", "description": "Tailored Shopify themes for your brand identity.", "icon": "shopping-bag" },
+        { "title": "Payment Integration", "description": "Secure checkout with multi-gateway options.", "icon": "credit-card" }
+      ],
+      "benefits": [
+        "Quick setup",
+        "Easy scalability",
+        "Global payment support"
+      ]
+    },
+    "opencart": {
+      "slug": "/services/cms-ecommerce/opencart",
+      "title": "OpenCart Development",
+      "description": "Lightweight and user-friendly ecommerce platform for startups.",
+      "hero": {
+        "heading": "OpenCart Development",
+        "description": "Affordable and effective ecommerce solutions with OpenCart.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Custom Modules", "description": "Add new features with custom extensions.", "icon": "package" },
+        { "title": "SEO Ready", "description": "Boost your online visibility with SEO optimization.", "icon": "bar-chart" }
+      ],
+      "benefits": [
+        "Open-source flexibility",
+        "Easy to manage",
+        "Budget-friendly"
+      ]
+    },
+    "drupal": {
+      "slug": "/services/cms-ecommerce/drupal",
+      "title": "Drupal Development",
+      "description": "Enterprise CMS development with robust security and scalability.",
+      "hero": {
+        "heading": "Drupal Development",
+        "description": "Powerful websites and applications using Drupal CMS.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Enterprise Security", "description": "Advanced access control and content security.", "icon": "shield" },
+        { "title": "API Ready", "description": "Headless CMS support for flexible integrations.", "icon": "cloud" }
+      ],
+      "benefits": [
+        "High security",
+        "Enterprise-grade performance",
+        "Advanced customization"
+      ]
+    }
+  },
+  "digital-marketing": {
+    "seo": {
+      "slug": "/services/digital-marketing/seo",
+      "title": "Search Engine Optimization (SEO)",
+      "description": "Boost your online visibility and rank higher on search engines.",
+      "hero": {
+        "heading": "SEO Services",
+        "description": "Optimize your website for better visibility and conversions.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "On-Page Optimization", "description": "Improve your website’s structure and content.", "icon": "edit" },
+        { "title": "Off-Page SEO", "description": "Build authority through backlinks and outreach.", "icon": "link" }
+      ],
+      "benefits": [
+        "Higher search rankings",
+        "Increased organic traffic",
+        "Better ROI"
+      ]
+    },
+    "smo": {
+      "slug": "/services/digital-marketing/smo",
+      "title": "Social Media Optimization (SMO)",
+      "description": "Engage audiences and grow your social media presence.",
+      "hero": {
+        "heading": "SMO Services",
+        "description": "Build a strong and active social presence across platforms.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Social Strategy", "description": "Targeted campaigns for Facebook, Instagram, and LinkedIn.", "icon": "share" },
+        { "title": "Content Creation", "description": "Creative posts designed to engage and convert.", "icon": "image" }
+      ],
+      "benefits": [
+        "Brand awareness",
+        "Audience growth",
+        "Improved engagement"
+      ]
+    },
+    "ppc": {
+      "slug": "/services/digital-marketing/ppc",
+      "title": "Pay Per Click (PPC)",
+      "description": "Drive instant traffic and leads through paid advertising.",
+      "hero": {
+        "heading": "PPC Advertising",
+        "description": "Maximize ROI with targeted ad campaigns.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Ad Campaign Setup", "description": "Google Ads and Meta Ads management.", "icon": "zap" },
+        { "title": "Conversion Tracking", "description": "Measure success with detailed analytics.", "icon": "bar-chart" }
+      ],
+      "benefits": [
+        "Instant lead generation",
+        "Precise audience targeting",
+        "Scalable ad spend"
+      ]
+    },
+    "email-marketing": {
+      "slug": "/services/digital-marketing/email-marketing",
+      "title": "Email Marketing",
+      "description": "Personalized email campaigns that convert leads into customers.",
+      "hero": {
+        "heading": "Email Marketing Services",
+        "description": "Engage customers through impactful and automated email strategies.",
+       "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Automation", "description": "Send the right message at the right time.", "icon": "send" },
+        { "title": "Template Design", "description": "Attractive and mobile-friendly email templates.", "icon": "mail" }
+      ],
+      "benefits": [
+        "Better lead nurturing",
+        "Increased open rates",
+        "Cost-effective marketing"
+      ]
+    },
+    "whatsapp-marketing": {
+      "slug": "/services/digital-marketing/whatsapp-marketing",
+      "title": "WhatsApp Marketing",
+      "description": "Reach customers instantly with personalized WhatsApp campaigns.",
+      "hero": {
+        "heading": "WhatsApp Marketing",
+        "description": "Boost customer engagement using WhatsApp automation.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Bulk Messaging", "description": "Send offers, updates, and notifications at scale.", "icon": "message-circle" },
+        { "title": "Chat Automation", "description": "AI-based responses for 24/7 support.", "icon": "bot" }
+      ],
+      "benefits": [
+        "Direct customer engagement",
+        "High open rates",
+        "Instant communication"
+      ]
+    }
+  },
+  "designing": {
+    "logo-designing": {
+      "slug": "/services/designing/logo-designing",
+      "title": "Logo Designing",
+      "description": "Creative logo designs that reflect your brand identity.",
+      "hero": {
+        "heading": "Logo Designing",
+        "description": "Craft a strong brand image with a memorable logo.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Custom Concepts", "description": "Unique logo designs based on your business vision.", "icon": "palette" },
+        { "title": "Multiple Revisions", "description": "Refine designs until you’re satisfied.", "icon": "edit" }
+      ],
+      "benefits": [
+        "Strong brand recognition",
+        "Professional appeal",
+        "Unique identity"
+      ]
+    },
+    "ui-ux": {
+      "slug": "/services/designing/ui-ux",
+      "title": "UI/UX Designing",
+      "description": "Designing engaging and intuitive digital interfaces.",
+      "hero": {
+        "heading": "UI/UX Design Services",
+        "description": "Enhance user experience with creative and functional design.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "User Research", "description": "Data-driven insights for optimal design.", "icon": "users" },
+        { "title": "Interactive Prototypes", "description": "Visualize interfaces before development.", "icon": "layout" }
+      ],
+      "benefits": [
+        "Improved usability",
+        "Higher user satisfaction",
+        "Modern interface aesthetics"
+      ]
+    },
+    "graphic-designing": {
+      "slug": "/services/designing/graphic-designing",
+      "title": "Graphic Designing",
+      "description": "Visually stunning designs that communicate your brand story.",
+      "hero": {
+        "heading": "Graphic Designing Services",
+        "description": "Creative visuals that captivate and engage your audience.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "Brand Collateral", "description": "Designs for brochures, banners, and posters.", "icon": "image" },
+        { "title": "Digital Assets", "description": "Visuals optimized for web and social media.", "icon": "monitor" }
+      ],
+      "benefits": [
+        "Enhanced brand image",
+        "Improved engagement",
+        "Professional-quality visuals"
+      ]
+    },
+    "custom-designing": {
+      "slug": "/services/designing/custom-designing",
+      "title": "Custom Designing",
+      "description": "Tailored design solutions to match unique business requirements.",
+      "hero": {
+        "heading": "Custom Designing",
+        "description": "Personalized designs created for your brand’s vision.",
+        "gradient": "from-gray-900 via-black to-gray-800"
+      },
+      "features": [
+        { "title": "End-to-End Design", "description": "From concept to delivery, complete design service.", "icon": "layers" },
+        { "title": "Collaborative Process", "description": "Work closely with designers to achieve perfection.", "icon": "users" }
+      ],
+      "benefits": [
+        "Fully customized outcomes",
+        "Brand-consistent designs",
+        "High creative flexibility"
+      ]
+    }
+  }
+}

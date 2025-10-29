@@ -1,0 +1,107 @@
+{
+  "frontend/react-developers": {
+    "slug": "frontend/react-developers",
+    "title": "Hire React Developers",
+    "description": "Build scalable and modern frontends with our expert React developers.",
+    "hero": {
+      "heading": "Hire Expert React Developers",
+      "description": "Empower your web applications with interactive and high-performance React interfaces.",
+      "gradient": "from-blue-600 to-indigo-700"
+    },
+    "features": [
+      { "title": "Modern UI Development", "description": "Create stunning interfaces using React and Tailwind CSS.", "icon": "laptop" },
+      { "title": "Component-Based Architecture", "description": "Reusable and scalable components for faster development.", "icon": "code" },
+      { "title": "Performance Optimization", "description": "Ensure smooth performance and fast load times.", "icon": "lightbulb" }
+    ],
+    "benefits": [
+      "Save up to 40% on development costs",
+      "Dedicated developers for your project",
+      "Agile development process",
+      "Cross-browser compatibility"
+    ]
+  },
+  "frontend/vuejs-developers": {
+    "slug": "frontend/vuejs-developers",
+    "title": "Hire Vue.js Developers",
+    "description": "Leverage the power of Vue.js for fast and maintainable front-end applications.",
+    "hero": {
+      "heading": "Hire Skilled Vue.js Developers",
+      "description": "Build interactive, lightweight, and reactive UIs with Vue.js experts.",
+      "gradient": "from-green-500 to-emerald-600"
+    },
+    "features": [
+      { "title": "Reactive Components", "description": "Build dynamic and data-driven frontends with Vue.", "icon": "code" },
+      { "title": "Lightweight Framework", "description": "Fast load times and high performance for all devices.", "icon": "laptop" },
+      { "title": "Integration Ready", "description": "Easily integrate Vue with existing systems or APIs.", "icon": "plug" }
+    ],
+    "benefits": [
+      "Dedicated Vue.js engineers",
+      "Fast project turnaround",
+      "Flexible hiring models",
+      "Ongoing maintenance support"
+    ]
+  },
+  "backend/nodejs-developers": {
+    "slug": "backend/nodejs-developers",
+    "title": "Hire Node.js Developers",
+    "description": "Develop high-performance backend systems with expert Node.js developers.",
+    "hero": {
+      "heading": "Hire Top Node.js Developers",
+      "description": "Build scalable APIs and microservices with Node.js experts.",
+      "gradient": "from-yellow-500 to-orange-600"
+    },
+    "features": [
+      { "title": "Scalable Architecture", "description": "Microservices and event-driven systems built with Node.", "icon": "server" },
+      { "title": "Secure APIs", "description": "Robust authentication and security mechanisms.", "icon": "lock" },
+      { "title": "Real-Time Apps", "description": "Build chat, streaming, and live data apps efficiently.", "icon": "cloud" }
+    ],
+    "benefits": [
+      "High-performance Node apps",
+      "Rapid MVP development",
+      "24/7 technical support",
+      "Flexible engagement models"
+    ]
+  },
+  "mobile/react-native-developers": {
+    "slug": "mobile/react-native-developers",
+    "title": "Hire React Native Developers",
+    "description": "Create cross-platform mobile apps with a single React Native codebase.",
+    "hero": {
+      "heading": "Hire Expert React Native Developers",
+      "description": "Deliver seamless iOS and Android apps faster with React Native.",
+      "gradient": "from-purple-600 to-indigo-700"
+    },
+    "features": [
+      { "title": "Cross-Platform Apps", "description": "Build iOS & Android apps from one codebase.", "icon": "laptop" },
+      { "title": "Native Performance", "description": "Deliver native-like speed and user experience.", "icon": "shield" },
+      { "title": "Rapid Development", "description": "Save time and resources with faster delivery.", "icon": "lightbulb" }
+    ],
+    "benefits": [
+      "Reduced development cost",
+      "Reusable code components",
+      "Faster time-to-market",
+      "Skilled React Native experts"
+    ]
+  },
+  "specialized/devops-engineers": {
+    "slug": "specialized/devops-engineers",
+    "title": "Hire DevOps Engineers",
+    "description": "Streamline your deployment pipelines with skilled DevOps professionals.",
+    "hero": {
+      "heading": "Hire Certified DevOps Engineers",
+      "description": "Automate your infrastructure and optimize delivery pipelines.",
+      "gradient": "from-cyan-600 to-blue-700"
+    },
+    "features": [
+      { "title": "Continuous Integration & Deployment", "description": "Set up CI/CD pipelines for faster releases.", "icon": "server" },
+      { "title": "Cloud Infrastructure", "description": "Manage AWS, Azure, or GCP seamlessly.", "icon": "cloud" },
+      { "title": "Security & Monitoring", "description": "Implement secure and stable DevOps environments.", "icon": "file-lock" }
+    ],
+    "benefits": [
+      "Automated deployment process",
+      "Reduced downtime",
+      "Improved scalability",
+      "Enhanced team collaboration"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "cyber-security": {
+    "slug": "cyber-security",
+    "title": "Cyber Security Solutions",
+    "description": "Comprehensive security solutions to protect your business from evolving cyber threats",
+    "hero": {
+      "heading": "Cyber Security Solutions",
+      "description": "Comprehensive security solutions to protect your business from evolving cyber threats",
+      "gradient": "from-gray-900 via-black to-gray-800"
+    },
+    "features": [
+      {
+        "title": "Firewalls Solutions",
+        "description": "Advanced firewall protection for your network infrastructure",
+        "icon": "shield"
+      },
+      {
+        "title": "Security Proxy Solutions",
+        "description": "Secure proxy solutions for enhanced network security",
+        "icon": "lock"
+      },
+      {
+        "title": "Endpoint Security",
+        "description": "Protect all endpoints in your organization",
+        "icon": "laptop"
+      },
+      {
+        "title": "Data Loss Prevention",
+        "description": "Prevent sensitive data leaks and ensure compliance",
+        "icon": "file-lock"
+      }
+    ],
+    "benefits": [
+      "24/7 security monitoring and threat detection",
+      "Compliance with industry standards and regulations",
+      "Reduced risk of data breaches and cyber attacks",
+      "Expert security team at your service"
+    ]
+  },
+  "generative-ai": {
+    "slug": "generative-ai",
+    "title": "Generative AI Solutions",
+    "description": "Transform your business with cutting-edge AI technology and intelligent automation",
+    "hero": {
+      "heading": "Generative AI Solutions",
+      "description": "Transform your business with cutting-edge AI technology and intelligent automation",
+      "gradient": "from-blue-900 via-black to-blue-800"
+    },
+    "features": [
+      {
+        "title": "AI Strategy Consulting",
+        "description": "Expert guidance to develop and implement your AI strategy",
+        "icon": "lightbulb"
+      },
+      {
+        "title": "AI Development",
+        "description": "Custom AI solutions tailored to your business needs",
+        "icon": "code"
+      },
+      {
+        "title": "AI Integration",
+        "description": "Seamlessly integrate AI into your existing systems",
+        "icon": "plug"
+      },
+      {
+        "title": "AI Training and Support",
+        "description": "Comprehensive training programs for your team",
+        "icon": "users"
+      }
+    ],
+    "benefits": [
+      "Increased productivity and efficiency",
+      "Automated repetitive tasks",
+      "Data-driven insights and decision making",
+      "Competitive advantage in your industry"
+    ]
+  },
+  "cloud-services": {
+    "slug": "cloud-services",
+    "title": "Cloud Services",
+    "description": "Scalable cloud infrastructure solutions for modern businesses",
+    "hero": {
+      "heading": "Cloud Services",
+      "description": "Scalable cloud infrastructure solutions for modern businesses",
+      "gradient": "from-green-900 via-black to-green-800"
+    },
+    "features": [
+      {
+        "title": "Amazon Web Services",
+        "description": "Leverage the power of AWS for your cloud infrastructure",
+        "icon": "cloud"
+      },
+      {
+        "title": "Microsoft Azure",
+        "description": "Enterprise-grade cloud solutions with Microsoft Azure",
+        "icon": "server"
+      },
+      {
+        "title": "Google Cloud Platform",
+        "description": "Build and scale with Google Cloud infrastructure",
+        "icon": "database"
+      }
+    ],
+    "benefits": [
+      "Scalable infrastructure that grows with your business",
+      "Cost-effective pay-as-you-go pricing",
+      "High availability and disaster recovery",
+      "Expert cloud architecture and migration support"
+    ]
+  }
+}
