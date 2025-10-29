@@ -24,6 +24,7 @@ interface ServiceCard {
 const Services = () => {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const [isScrolling, setIsScrolling] = useState(false);
+  const scrollTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const services: ServiceCard[] = [
     {
@@ -90,14 +91,24 @@ const Services = () => {
     const handleScroll = () => {
       if (scrollContainerRef.current) {
         setIsScrolling(true);
-        setTimeout(() => setIsScrolling(false), 150);
+
+        if (scrollTimeoutRef.current) {
+          clearTimeout(scrollTimeoutRef.current);
+        }
+
+        scrollTimeoutRef.current = setTimeout(() => setIsScrolling(false), 150);
       }
     };
 
     const container = scrollContainerRef.current;
     if (container) {
       container.addEventListener('scroll', handleScroll);
-      return () => container.removeEventListener('scroll', handleScroll);
+      return () => {
+        container.removeEventListener('scroll', handleScroll);
+        if (scrollTimeoutRef.current) {
+          clearTimeout(scrollTimeoutRef.current);
+        }
+      };
     }
   }, []);
 

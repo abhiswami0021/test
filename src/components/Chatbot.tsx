@@ -35,6 +35,7 @@ const Chatbot = () => {
 
   const messagesContainerRef = useRef<HTMLDivElement | null>(null);
   const [isUserAtBottom, setIsUserAtBottom] = useState(true);
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   // ✅ Smart Auto-scroll Logic
   useEffect(() => {
@@ -65,6 +66,14 @@ const Chatbot = () => {
     });
   }, [messages]);
 
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
+
   const handleSendMessage = () => {
     if (inputMessage.trim() === '') return;
 
@@ -79,7 +88,11 @@ const Chatbot = () => {
     const userInput = inputMessage;
     setInputMessage('');
 
-    setTimeout(() => {
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
+    }
+
+    timeoutRef.current = setTimeout(() => {
       let botResponseText = '';
       let nextStep = currentStep;
 

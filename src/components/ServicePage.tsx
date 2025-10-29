@@ -1,4 +1,4 @@
-import { useState, FormEvent } from 'react';
+import { useState, FormEvent, useEffect, useRef } from 'react';
 import { CheckCircle, TrendingUp, Shield, Clock, Users, Zap, ChevronDown, ArrowRight, Phone, Mail, MapPin } from 'lucide-react';
 import { submitServiceInquiry, ServiceInquiry } from '../lib/supabase';
 
@@ -14,6 +14,15 @@ export default function ServicePage() {
   const [submitSuccess, setSubmitSuccess] = useState(false);
   const [submitError, setSubmitError] = useState('');
   const [openFaq, setOpenFaq] = useState<number | null>(null);
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
 
   const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
@@ -34,7 +43,10 @@ export default function ServicePage() {
       setSubmitSuccess(true);
       setFormData({ name: '', email: '', phone: '', company: '', message: '' });
 
-      setTimeout(() => setSubmitSuccess(false), 5000);
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+      timeoutRef.current = setTimeout(() => setSubmitSuccess(false), 5000);
     } catch (error) {
       setSubmitError('Failed to submit inquiry. Please try again.');
     } finally {
